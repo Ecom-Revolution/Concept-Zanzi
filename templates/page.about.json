@@ -221,16 +221,27 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<em><strong>Free shipping and returns</strong></em>",
-            "text_size": 160,
+            "text": "<em>Porter un maillot, c’est aussi offrir une chance à un enfant</em>",
+            "text_size": 98,
             "text_font": "body",
-            "highlighted_text": "stencil",
-            "highlighted_scribble": "circle"
+            "highlighted_text": "half_text",
+            "highlighted_scribble": "sketch-underline"
+          }
+        },
+        "text_FwRXYg": {
+          "type": "text",
+          "settings": {
+            "text": "<em>Ensemble, on marque des buts pour l’humanité</em>",
+            "text_size": 98,
+            "text_font": "body",
+            "highlighted_text": "half_text",
+            "highlighted_scribble": "sketch-underline"
           }
         }
       },
       "block_order": [
-        "text"
+        "text",
+        "text_FwRXYg"
       ],
       "settings": {
         "direction": "left",
