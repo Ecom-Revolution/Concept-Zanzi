@@ -88,10 +88,69 @@
         "full_width": true,
         "rounded": true
       }
+    },
+    "announcementgradient_jmwrdV": {
+      "type": "announcementgradient",
+      "blocks": {
+        "banner_rj9nfP": {
+          "type": "banner",
+          "settings": {
+            "item": "Lorem ipsum dolor sit amet",
+            "item_lnk": ""
+          }
+        },
+        "banner_WrLqHQ": {
+          "type": "banner",
+          "settings": {
+            "item": "Ut enim ad minima veniam",
+            "item_lnk": ""
+          }
+        },
+        "banner_aDkp6J": {
+          "type": "banner",
+          "settings": {
+            "item": "Neque porro quisquam est",
+            "item_lnk": ""
+          }
+        },
+        "banner_wtWqwH": {
+          "type": "banner",
+          "settings": {
+            "item": "At vero eos et accusamus",
+            "item_lnk": ""
+          }
+        }
+      },
+      "block_order": [
+        "banner_rj9nfP",
+        "banner_WrLqHQ",
+        "banner_aDkp6J",
+        "banner_wtWqwH"
+      ],
+      "disabled": true,
+      "name": "PC- ANNOUCEMENT BAR #1",
+      "settings": {
+        "text_color": "#fff",
+        "text_size": 12,
+        "text_weight": "normal",
+        "italic": false,
+        "border_style": "solid",
+        "border_color": "#000",
+        "border_size": 0,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding": 1,
+        "bg_color": "#000",
+        "gradient_bg": "linear-gradient(90deg, #00a2dc, #1fb53b)",
+        "duration": 60,
+        "reverse": false,
+        "font": "josefin_sans_n4"
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "announcementgradient_jmwrdV"
   ]
 }

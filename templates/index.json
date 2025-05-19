@@ -75,6 +75,63 @@
         "parallax_direction": "vertical"
       }
     },
+    "announcementgradient_CttpQc": {
+      "type": "announcementgradient",
+      "blocks": {
+        "banner_xgzLz4": {
+          "type": "banner",
+          "settings": {
+            "item": "ZANZIJERSEY",
+            "item_lnk": ""
+          }
+        },
+        "banner_yUaJYf": {
+          "type": "banner",
+          "settings": {
+            "item": "Ut enim ad minima veniam",
+            "item_lnk": ""
+          }
+        },
+        "banner_cznQW3": {
+          "type": "banner",
+          "settings": {
+            "item": "Neque porro quisquam est",
+            "item_lnk": ""
+          }
+        },
+        "banner_7RXh43": {
+          "type": "banner",
+          "settings": {
+            "item": "At vero eos et accusamus",
+            "item_lnk": ""
+          }
+        }
+      },
+      "block_order": [
+        "banner_xgzLz4",
+        "banner_yUaJYf",
+        "banner_cznQW3",
+        "banner_7RXh43"
+      ],
+      "name": "PC- ANNOUCEMENT BAR #1",
+      "settings": {
+        "text_color": "#fff",
+        "text_size": 20,
+        "text_weight": "bold",
+        "italic": false,
+        "border_style": "solid",
+        "border_color": "#000",
+        "border_size": 0,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding": 1,
+        "bg_color": "#000",
+        "gradient_bg": "linear-gradient(90deg, #00a2dc, #1fb53b)",
+        "duration": 300,
+        "reverse": false,
+        "font": "syne_n7"
+      }
+    },
     "rich-text-1": {
       "type": "rich-text",
       "blocks": {
@@ -1208,6 +1265,7 @@
   },
   "order": [
     "image_with_text_overlay_Pj9eTP",
+    "announcementgradient_CttpQc",
     "rich-text-1",
     "collection-list",
     "video-with-text-overlay",
