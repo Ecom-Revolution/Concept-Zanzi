@@ -275,10 +275,24 @@
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
+        },
+        "testimonial_GQB6DN": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>C’est la première fois qu’un achat en ligne me fait autant de bien. Voir les enfants sourire, ça n’a pas de prix. Bravo pour cette belle mission.<br/><br/></p>",
+            "author": "Hakim P",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
         }
       },
       "block_order": [
-        "testimonial"
+        "testimonial",
+        "testimonial_GQB6DN"
       ],
       "settings": {
         "heading": "",
