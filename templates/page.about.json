@@ -288,11 +288,25 @@
             "highlighted_text": "none",
             "highlighted_scribble": "circle"
           }
+        },
+        "testimonial_UXG8Ce": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "text": "<p>J’ai commandé un maillot, et j’ai reçu un sentiment d’utilité en retour. On ne fait pas que consommer ici, on construit quelque chose ensemble.<br/><br/></p>",
+            "author": "Julie A",
+            "author_info": "",
+            "author_url": "",
+            "image_ratio": "rounded",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
         }
       },
       "block_order": [
         "testimonial",
-        "testimonial_GQB6DN"
+        "testimonial_GQB6DN",
+        "testimonial_UXG8Ce"
       ],
       "settings": {
         "heading": "",
