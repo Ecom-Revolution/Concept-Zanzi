@@ -96,7 +96,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Vous aimez le foot ?<br/><br/>Et si chaque maillot que vous portiez marquait un vrai but – pas sur un terrain, mais dans la vie réelle ?</p><p>À Zanzibar, l’eau potable, l’éducation et des lieux de culte manquent cruellement.<br/><br/>Avec chaque achat, vous financez directement la construction de puits, d’écoles ou de mosquées.</p>",
+            "text": "<p>Vous aimez le foot ?<br/></p><p>Et si chaque maillot que vous portiez marquait un vrai but – pas sur un terrain, mais dans la vie réelle ?</p><p>À Zanzibar, l’eau potable, l’éducation et des lieux de culte manquent cruellement.<br/><br/>Avec chaque achat, vous financez directement la construction de puits, d’écoles ou de mosquées.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -267,8 +267,8 @@
           "type": "testimonial",
           "settings": {
             "icon": "quote",
-            "text": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.</p>",
-            "author": "Author's name",
+            "text": "<p>Ce n’est pas juste un maillot. C’est une vraie action. J’ai vu les photos du puits que j’ai aidé à financer… j’en ai eu les larmes aux yeux.<br/><br/></p>",
+            "author": "Yanis M",
             "author_info": "",
             "author_url": "",
             "image_ratio": "rounded",
