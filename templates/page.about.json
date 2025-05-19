@@ -150,8 +150,8 @@
         "profile-1": {
           "type": "profile",
           "settings": {
-            "heading": "Example title",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<br/><br/>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store. Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "heading": "Puits",
+            "text": "<p><strong>Lieu : Village de Nungwi – Nord de Zanzibar</strong><br/><br/>Avant : Les enfants marchaient jusqu’à 3 heures par jour pour trouver de l’eau.<br/><br/>Aujourd’hui : Un puits accessible à tous, creusé à 20 mètres de profondeur, alimente plus de 500 personnes.<br/><br/></p>",
             "color_text": "#ffffff",
             "color_background": "#000000"
           }
@@ -188,12 +188,12 @@
         "image_ratio_mobile": "portrait",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "heading": "Talk about your <em>brand</em>",
+        "heading": "Nos projets réalisés grâce à vous",
         "heading_size": "title-md",
         "heading_alignment": "text-left justify-start",
         "heading_tag": "h2",
-        "subheading": "Add a tagline",
-        "description": "<p>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+        "subheading": "L'impact réel commence ici",
+        "description": "<p>Chaque maillot vendu a permis de financer une action concrète. Voici ce que VOUS avez rendu possible.<br/><br/></p>",
         "button_label": "",
         "button_link": "",
         "button_external": false,
