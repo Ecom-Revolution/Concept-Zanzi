@@ -150,6 +150,7 @@
         "profile-1": {
           "type": "profile",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_28.webp",
             "heading": "Puits – L’eau qui change une vie",
             "text": "<p><strong>Lieu : Village de Nungwi – Nord de Zanzibar</strong><br/><br/>Avant : Les enfants marchaient jusqu’à 3 heures par jour pour trouver de l’eau.<br/><br/>Aujourd’hui : Un puits accessible à tous, creusé à 20 mètres de profondeur, alimente plus de 500 personnes.<br/><br/></p>",
             "color_text": "#ffffff",
