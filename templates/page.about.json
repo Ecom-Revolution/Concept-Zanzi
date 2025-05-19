@@ -150,7 +150,7 @@
         "profile-1": {
           "type": "profile",
           "settings": {
-            "heading": "Puits",
+            "heading": "Puits – L’eau qui change une vie",
             "text": "<p><strong>Lieu : Village de Nungwi – Nord de Zanzibar</strong><br/><br/>Avant : Les enfants marchaient jusqu’à 3 heures par jour pour trouver de l’eau.<br/><br/>Aujourd’hui : Un puits accessible à tous, creusé à 20 mètres de profondeur, alimente plus de 500 personnes.<br/><br/></p>",
             "color_text": "#ffffff",
             "color_background": "#000000"
@@ -159,8 +159,8 @@
         "profile-2": {
           "type": "profile",
           "settings": {
-            "heading": "Example title",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<br/><br/>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store. Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "heading": "École – L’avenir commence ici",
+            "text": "<p><strong>Lieu : Nungwi – Zanzibar Nord</strong><br/><br/>Avant : Une seule salle pour 80 enfants, sans pupitres, sans lumière.<br/><br/>Aujourd’hui : 3 nouvelles classes, des bancs, des livres et une énergie retrouvée.<br/><br/></p>",
             "color_text": "#ffffff",
             "color_background": "#000000"
           }
@@ -168,8 +168,8 @@
         "profile-3": {
           "type": "profile",
           "settings": {
-            "heading": "Example title",
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<br/><br/>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store. Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "heading": "Mosquée – Un lieu de paix et d’union",
+            "text": "<p><strong>Lieu : Quartier de Kendwa– Nord de Zanzibar</strong><br/><br/>Avant : Les habitants priaient à l’extérieur, souvent sous le soleil ou la pluie.<br/><br/>Aujourd’hui : Une mosquée solide, propre et accueillante accueille plus de 200 fidèles chaque semaine.<br/><br/></p>",
             "color_text": "#ffffff",
             "color_background": "#000000"
           }
