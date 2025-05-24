@@ -12,66 +12,47 @@
     "image_with_text_overlay_Pj9eTP": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_pdjCn9": {
-          "type": "subheading",
+        "button_tfRWiH": {
+          "type": "button",
           "settings": {
-            "subheading": "Add a tagline",
-            "subheading_size": "subtitle-md",
-            "secondary_color": true
-          }
-        },
-        "heading_FPnNdF": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text overlay",
-            "heading_size": "title-lg tracking-heading",
-            "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
-          }
-        },
-        "text_nTzyih": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_size": "subtext-md",
-            "text_max_size": 32,
-            "text_font": "body",
-            "secondary_color": false,
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
+            "button_label": "Découvrir les Maillots",
+            "button_link": "",
+            "button_style": "primary",
+            "button_size": "sm",
+            "button_external": false,
+            "button_icon": true
           }
         }
       },
       "block_order": [
-        "subheading_pdjCn9",
-        "heading_FPnNdF",
-        "text_nTzyih"
+        "button_tfRWiH"
       ],
       "name": "t:sections.image-with-text-overlay.presets.name",
       "settings": {
         "transparent_header": true,
-        "image_height": "650px",
+        "image": "shopify://shop_images/XA819256968FR.png",
+        "image_height": "adapt",
         "content_width": "small",
-        "content_position": "md:items-end md:justify-start",
-        "text_alignment": "left",
-        "image_height_mobile": "auto",
-        "content_position_mobile": "items-end justify-start",
-        "text_alignment_mobile": "left",
+        "content_position": "md:items-center md:justify-center",
+        "text_alignment": "center",
+        "image_mobile": "shopify://shop_images/Tu.png",
+        "image_height_mobile": "adapt",
+        "content_position_mobile": "items-end justify-center",
+        "text_alignment_mobile": "center",
         "color_text": "#ffffff",
-        "color_highlight": "#e0a580",
+        "color_highlight": "#f1789c",
         "gradient_highlight": "",
-        "color_button_text": "#171717",
-        "color_button_background": "#ffffff",
+        "color_button_text": "#ffffff",
+        "color_button_background": "#f1789c",
         "color_button_gradient": "",
         "color_overlay": "#171717",
-        "overlay_opacity": 70,
+        "overlay_opacity": 0,
         "padding_top": 0,
         "padding_bottom": 0,
         "divider": false,
         "full_width": true,
         "rounded": false,
-        "enable_parallax": true,
+        "enable_parallax": false,
         "parallax_direction": "vertical"
       }
     },
@@ -113,19 +94,20 @@
         "banner_cznQW3",
         "banner_7RXh43"
       ],
+      "disabled": true,
       "name": "PC- ANNOUCEMENT BAR #1",
       "settings": {
-        "text_color": "#fff",
+        "text_color": "#ffffff",
         "text_size": 20,
         "text_weight": "bold",
         "italic": false,
         "border_style": "solid",
-        "border_color": "#000",
+        "border_color": "#000000",
         "border_size": 0,
         "margin_top": 0,
         "margin_bottom": 0,
         "padding": 1,
-        "bg_color": "#000",
+        "bg_color": "#000000",
         "gradient_bg": "linear-gradient(90deg, #00a2dc, #1fb53b)",
         "duration": 300,
         "reverse": false,
@@ -135,10 +117,20 @@
     "rich-text-1": {
       "type": "rich-text",
       "blocks": {
-        "text": {
+        "heading_qHBDha": {
+          "type": "heading",
+          "settings": {
+            "heading": "UNE COMMUNAUTÉ VISIBLE, UNE INTENTION INVISIBLE",
+            "heading_size": "title-sm",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_86UJM7": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<br/><br/>Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store. Share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>Des centaines déjà dans le mouvement, unis par le même maillot,portés par une cause que seuls les vrais connaissent.</p>",
             "text_size": "subtext-md",
             "text_max_size": 32,
             "text_font": "body",
@@ -149,19 +141,20 @@
         }
       },
       "block_order": [
-        "text"
+        "heading_qHBDha",
+        "text_86UJM7"
       ],
       "settings": {
-        "text_alignment": "left",
-        "text_alignment_mobile": "left",
-        "heading": "Talk about your <em>brand</em>",
-        "heading_size": "title-md",
+        "text_alignment": "center",
+        "text_alignment_mobile": "center",
+        "heading": "",
+        "heading_size": "title-sm",
         "heading_alignment": "text-left md:items-end md:flex-row",
         "heading_width": "small",
         "heading_tag": "h2",
         "subheading": "",
         "description": "",
-        "button_label": "Our Story",
+        "button_label": "",
         "button_link": "",
         "button_external": false,
         "button_icon": true,
@@ -175,7 +168,7 @@
         "color_button_text": "",
         "color_button_background": "",
         "color_button_gradient": "",
-        "padding_top": 72,
+        "padding_top": 36,
         "padding_bottom": 0,
         "divider": false,
         "narrow": false,
@@ -412,7 +405,7 @@
             "show_variant_labels": true,
             "picker_type": "button",
             "enable_color_swatches": true,
-            "color_swatch_type": "color",
+            "color_swatch_type": "variant",
             "size_chart": ""
           }
         },
@@ -478,7 +471,7 @@
         "@media screen and (min-width: 1920px) {.featured-product {gap: var(--grid-gap); padding-inline: calc(var(--grid-gap) * 2); }}"
       ],
       "settings": {
-        "product": "",
+        "product": "zanzijersey-homme",
         "enable_sticky_info": true,
         "media_size": 64,
         "gallery_layout": "thumbnail",

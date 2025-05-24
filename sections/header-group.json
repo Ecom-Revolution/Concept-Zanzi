@@ -11,6 +11,63 @@
   "type": "header",
   "name": "t:sections.header-group.name",
   "sections": {
+    "announcementgradient_GLtpfc": {
+      "type": "announcementgradient",
+      "blocks": {
+        "banner_djgjGP": {
+          "type": "banner",
+          "settings": {
+            "item": "UNE PARTIE DES BÉNÉFICES POUR ZANZIBAR",
+            "item_lnk": ""
+          }
+        },
+        "banner_UXxmCM": {
+          "type": "banner",
+          "settings": {
+            "item": "PORTE LE MAILLOT PORTE UNE CAUSE",
+            "item_lnk": ""
+          }
+        },
+        "banner_wf3Ege": {
+          "type": "banner",
+          "settings": {
+            "item": "LIVRAISON EXPRESS EN FRANCE",
+            "item_lnk": ""
+          }
+        },
+        "banner_KX38VL": {
+          "type": "banner",
+          "settings": {
+            "item": "REJOINS LES VRAIS QUI AGISSENT",
+            "item_lnk": ""
+          }
+        }
+      },
+      "block_order": [
+        "banner_djgjGP",
+        "banner_UXxmCM",
+        "banner_wf3Ege",
+        "banner_KX38VL"
+      ],
+      "name": "PC- ANNOUCEMENT BAR #1",
+      "settings": {
+        "text_color": "#f1789c",
+        "text_size": 15,
+        "text_weight": "bold",
+        "italic": true,
+        "border_style": "solid",
+        "border_color": "#000",
+        "border_size": 0,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding": 1,
+        "bg_color": "#000",
+        "gradient_bg": "linear-gradient(90deg, #1c1c1c)",
+        "duration": 250,
+        "reverse": true,
+        "font": "syne_n7"
+      }
+    },
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
@@ -130,17 +187,17 @@
       "disabled": true,
       "name": "PC- ANNOUCEMENT BAR #1",
       "settings": {
-        "text_color": "#fff",
+        "text_color": "#ffffff",
         "text_size": 12,
         "text_weight": "normal",
         "italic": false,
         "border_style": "solid",
-        "border_color": "#000",
+        "border_color": "#000000",
         "border_size": 0,
         "margin_top": 0,
         "margin_bottom": 0,
         "padding": 1,
-        "bg_color": "#000",
+        "bg_color": "#000000",
         "gradient_bg": "linear-gradient(90deg, #00a2dc, #1fb53b)",
         "duration": 60,
         "reverse": false,
@@ -149,6 +206,7 @@
     }
   },
   "order": [
+    "announcementgradient_GLtpfc",
     "announcement-bar",
     "header",
     "announcementgradient_jmwrdV"
