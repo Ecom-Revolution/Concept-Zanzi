@@ -120,11 +120,11 @@
         "heading_qHBDha": {
           "type": "heading",
           "settings": {
-            "heading": "UNE COMMUNAUTÉ VISIBLE, UNE INTENTION INVISIBLE",
+            "heading": "UNE COMMUNAUTÉ VISIBLE, UNE <em>INTENTION INVISIBLE</em>",
             "heading_size": "title-sm",
             "heading_tag": "h2",
-            "highlighted_text": "none",
-            "highlighted_scribble": "circle"
+            "highlighted_text": "scribble",
+            "highlighted_scribble": "squiggle-underline"
           }
         },
         "text_86UJM7": {
