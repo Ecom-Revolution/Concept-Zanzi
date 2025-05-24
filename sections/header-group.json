@@ -137,7 +137,7 @@
         "show_social": true,
         "enable_language_selector": true,
         "enable_country_selector": true,
-        "transparent_color_text": "#ffffff",
+        "transparent_color_text": "#171717",
         "color_text": "#171717",
         "color_background": "#ffffff",
         "padding_top": 32,
